@@ -1,3 +1,7 @@
+## Informations
+This project contains personal notes and steps followed during the dedicated chapter in the online course I am taking. Here is the link to the course in question:
+https://www.udemy.com/course/react-tutorial-and-projects-course
+
 ## Link and Preview
 https://fastidious-donut-62adbe.netlify.app
 ![comfy](https://github.com/SuperBona/Comfy-store-React/assets/122936032/1392590c-b182-49fe-804d-bd0caf7b5dc7)
